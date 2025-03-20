@@ -18,12 +18,6 @@ body {
 }
 #qa {
     padding-inline: 2rem;
-    border-color: #242;
-    background-color: #081808;
-}
-#progress {
-    border-color: #336;
-    background-color: #101024;
 }
 #info, #progress, #qa {
     border-color: #444;
