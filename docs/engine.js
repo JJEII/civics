@@ -8,14 +8,14 @@ const progressEl = document.getElementById("progress");
 const qaEl = document.getElementById("qa");
 const colorMap = data.meta.color_map;
 const pool = { all: [], starred: [] };
-let whichPool, question;
+let whichPool, question, areas_i = {};
 
 function init() {
     question = [];
     pool.all = [];
     pool.starred = [];
     let areas = {};
-    let areas_i = {}, ai = 0;
+    let ai = 0;
     let css = "";
     for (const [i, q] of data.question_pool.entries()) {
         let area = `${q.category}: ${q.subcategory}`;
@@ -32,7 +32,7 @@ function init() {
         areas[area].push(i);
         if (!(area in areas_i)) {
             areas_i[area] = ai;
-            css += `.a_${ai} { border-color: ${colorMap[area]}; }\n`;
+            css += `.a_${ai} { border-color: ${colorMap[area]}; color: ${colorMap[area]}; }\n`;
             css += `.a_${ai} > div { background-color: ${colorMap[area]}; }\n`;
             ai++;
         }
@@ -75,7 +75,8 @@ function init() {
 }
 
 function displayQuestion(qn) {
-    qaEl.innerHTML = `<details><summary>(${qn+1}) ${question[qn].area}<br><h3>${question[qn].question}</h3></summary>${question[qn].answer}<br><br><button id='btn--next'>Next</button></details>`;
+    qaEl.innerHTML = `<details><summary>${qn+1}. <span class='a_${areas_i[question[qn].area]}'>${question[qn].area}</span><br><h3>${question[qn].question
+        }</h3></summary><div class='ans'>${question[qn].answer}</div><br><div class='btn-wrap'><button id='btn--next'>Next</button></div></details>`;
     document.getElementById('btn--next').addEventListener('click', () => {
         document.getElementById(`q_${qn}`).classList.add('answered');
         Object.keys(pool).forEach(k => {
