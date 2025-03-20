@@ -33,8 +33,8 @@ summary {
     font-weight: bold;
     cursor: pointer;
 }
-#info > summary,
-#progress > summary {
+#info summary,
+#progress summary {
     text-transform: uppercase;
 }
 #qa .ans {
@@ -51,7 +51,6 @@ summary {
     height: 0.8rem;
     padding: 0;
     margin: 0 0.05rem;
-    /* border-color: #aa5; */
     overflow: hidden;
 }
 #progress .qbox.hide-unstarred:not(.starred) {
