@@ -1,0 +1,72 @@
+body {
+    background-color: black;
+    color: #bbb;
+}
+.starred-only {
+    display: inline;
+    font-weight: bold;
+    background-color: #323216;
+    border: 2px solid #aa5;
+}
+#info, #progress, #qa, .starred-only {
+    border-radius: 0.5rem;
+    border-width: 2px;
+    border-style: solid;
+    padding: 0.5rem;
+    display: inline-block;
+}
+#qa {
+    padding-inline: 2rem;
+}
+#info {
+    border-color: #242;
+    background-color: #081808;
+}
+#progress {
+    border-color: #224;
+    background-color: #080818;
+}
+#progress p {
+    margin-block: 0.25rem 0.5rem;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+summary {
+    font-weight: bold;
+    cursor: pointer;
+}
+#info > summary,
+#progress > summary {
+    text-transform: uppercase;
+}
+.qbox {
+    display: inline-block;
+    box-sizing: border-box;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 0.25rem;
+    width: 0.8rem;
+    height: 0.8rem;
+    padding: 0;
+    margin: 0 0.05rem;
+    /* border-color: #aa5; */
+    overflow: hidden;
+}
+#progress .qbox.hide-unstarred:not(.starred) {
+    display: none;
+}
+.qbox > div {
+    opacity: 0.15;
+}
+.qbox.answered > div {
+    opacity: 0.6;
+}
+#progress {
+    max-width: 9rem;
+}
+a {
+    color: #a000d0;
+}
+.underline {
+    text-decoration: underline;
+}

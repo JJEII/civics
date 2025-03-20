@@ -1,0 +1,718 @@
+{
+	"meta": {
+		"about": "Civics Questions and Answers (2008 version)\n\nThe 100 civics (history and government) questions and answers for the naturalization test are listed below. The civics test is an oral test and the USCIS Officer will ask the applicant up to 10 of the 100 civics questions. An applicant must answer 6 out of 10 questions correctly to pass the civics portion of the naturalization test. On the naturalization test, some answers may change because of elections or appointments. As you study for the test, make sure that you know the most current answers to these questions. Answer these questions with the name of the official who is serving at the time of your eligibility interview with USCIS. The USCIS Officer will not accept an incorrect answer.\n\nAlthough USCIS is aware that there may be additional correct answers to the 100 civics questions, applicants are encouraged to respond to the civics questions using the answers provided below.\n\n* If you are 65 years old or older and have been a legal permanent resident of the United States for 20 or more years, you may study just the questions that have been marked with an asterisk.",
+		"color_map": {
+			"AMERICAN GOVERNMENT: Principles of American Democracy": "hsl(0 100% 70%)",
+			"AMERICAN GOVERNMENT: System of Government": "hsl(40 100% 70%)",
+			"AMERICAN GOVERNMENT: Rights and Responsibilities": "hsl(80 100% 70%)",
+			"AMERICAN HISTORY: Colonial Period and Independence": "hsl(120 100% 70%)",
+			"AMERICAN HISTORY: 1800s": "hsl(160 100% 70%)",
+			"AMERICAN HISTORY: Recent American History and Other Important Historical Information": "hsl(200 100% 70%)",
+			"INTEGRATED CIVICS: Geography": "hsl(240 100% 70%)",
+			"INTEGRATED CIVICS: Symbols": "hsl(280 100% 70%)",
+			"INTEGRATED CIVICS: Holidays": "hsl(320 100% 70%)"
+		}
+	},
+	"question_pool": [
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "Principles of American Democracy",
+			"question": "What is the supreme law of the land?",
+			"answer": "▪ the Constitution",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "Principles of American Democracy",
+			"question": "What does the Constitution do?",
+			"answer": "▪ sets up the government\n▪ defines the government\n▪ protects basic rights of Americans",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "Principles of American Democracy",
+			"question": "The idea of self-government is in the first three words of the Constitution. What are these words?",
+			"answer": "▪ We the People",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "Principles of American Democracy",
+			"question": "What is an amendment?",
+			"answer": "▪ a change (to the Constitution)\n▪ an addition (to the Constitution)",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "Principles of American Democracy",
+			"question": "What do we call the first ten amendments to the Constitution?",
+			"answer": "▪ the Bill of Rights",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "Principles of American Democracy",
+			"question": "What is <span class='underline'>one</span> right or freedom from the First Amendment?",
+			"answer": "▪ speech\n▪ religion\n▪ assembly\n▪ press\n▪ petition the government",
+			"starred": true
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "Principles of American Democracy",
+			"question": "How many amendments does the Constitution have?",
+			"answer": "▪ twenty-seven (27)",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "Principles of American Democracy",
+			"question": "What did the Declaration of Independence do?",
+			"answer": "▪ announced our independence (from Great Britain)\n▪ declared our independence (from Great Britain)\n▪ said that the United States is free (from Great Britain)",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "Principles of American Democracy",
+			"question": "What are <span class='underline'>two</span> rights in the Declaration of Independence?",
+			"answer": "▪ life\n▪ liberty\n▪ pursuit of happiness",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "Principles of American Democracy",
+			"question": "What is freedom of religion?",
+			"answer": "▪ You can practice any religion, or not practice a religion.",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "Principles of American Democracy",
+			"question": "What is the economic system in the United States?",
+			"answer": "▪ capitalist economy\n▪ market economy",
+			"starred": true
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "Principles of American Democracy",
+			"question": "What is the “rule of law”?",
+			"answer": "▪ Everyone must follow the law.\n▪ Leaders must obey the law.\n▪ Government must obey the law.\n▪ No one is above the law.",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "Name <span class='underline'>one</span> branch or part of the government.",
+			"answer": "▪ Congress\n▪ legislative\n▪ President\n▪ executive\n▪ the courts\n▪ judicial",
+			"starred": true
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "What stops <span class='underline'>one</span> branch of government from becoming too powerful?",
+			"answer": "▪ checks and balances\n▪ separation of powers",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "Who is in charge of the executive branch?",
+			"answer": "▪ the President",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "Who makes federal laws?",
+			"answer": "▪ Congress\n▪ Senate and House (of Representatives)\n▪ (U.S. or national) legislature",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "What are the <span class='underline'>two</span> parts of the U.S. Congress?",
+			"answer": "▪ the Senate and House (of Representatives)",
+			"starred": true
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "How many U.S. Senators are there?",
+			"answer": "▪ one hundred (100)",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "We elect a U.S. Senator for how many years?",
+			"answer": "▪ six (6)",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "Who is <span class='underline'>one</span> of your state’s U.S. Senators now?",
+			"answer": "▪ Answers will vary. See <a href='https://www.senate.gov/'>https://www.senate.gov/</a>. [District of Columbia residents and residents of U.S. territories should answer that D.C. (or the territory where the applicant lives) has no U.S. Senators.]\n\nAs of 19 March 2025:\n▪ [Michael F.] Bennet (term ends in 2028)\n▪ [John W.] Hickenlooper (term ends in 2026)",
+			"starred": true
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "The House of Representatives has how many voting members?",
+			"answer": "▪ four hundred thirty-five (435)",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "We elect a U.S. Representative for how many years?",
+			"answer": "▪ two (2)",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "Name your U.S. Representative.",
+			"answer": "▪ Answers will vary. See <a href='https://www.house.gov/'>https://www.house.gov/</a>. [Residents of territories with nonvoting Delegates or Resident Commissioners may provide the name of that Delegate or Commissioner. Also acceptable is any statement that the territory has no (voting) Representatives in Congress.]\n\nAs of 19 March 2025:\n▪ [Jason] Crow (terms ends in 2026)",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "Who does a U.S. Senator represent?",
+			"answer": "▪ all people of the state",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "Why do some states have more Representatives than other states?",
+			"answer": "▪ (because of) the state’s population\n▪ (because) they have more people\n▪ (because) some states have more people",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "We elect a President for how many years?",
+			"answer": "▪ four (4)",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "In what month do we vote for President?",
+			"answer": "▪ November",
+			"starred": true
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "What is the name of the President of the United States now?",
+			"answer": "▪ Visit <a href='uscis.gov/citizenship/testupdates'>uscis.gov/citizenship/testupdates</a> for the name of the President of the United States.\n\nAs of 19 March 2025:\n▪ Donald J. Trump\n▪ Donald Trump\n▪ Trump\n[Term ends in 2029.]",
+			"starred": true
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "What is the name of the Vice President of the United States now?",
+			"answer": "▪ Visit <a href='uscis.gov/citizenship/testupdates'>uscis.gov/citizenship/testupdates</a> for the name of the Vice President of the United States.\n\nAs of 19 March 2025:\n▪ JD Vance\n▪ Vance\n[Term ends in 2029.]",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "If the President can no longer serve, who becomes President?",
+			"answer": "▪ the Vice President",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "If both the President and the Vice President can no longer serve, who becomes President?",
+			"answer": "▪ the Speaker of the House",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "Who is the Commander in Chief of the military?",
+			"answer": "▪ the President",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "Who signs bills to become laws?",
+			"answer": "▪ the President",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "Who vetoes bills?",
+			"answer": "▪ the President",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "What does the President’s Cabinet do?",
+			"answer": "▪ advises the President",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "What are <span class='underline'>two</span> Cabinet-level positions?",
+			"answer": "▪ Secretary of Agriculture\n▪ Secretary of Commerce\n▪ Secretary of Defense\n▪ Secretary of Education\n▪ Secretary of Energy\n▪ Secretary of Health and Human Services\n▪ Secretary of Homeland Security\n▪ Secretary of Housing and Urban Development\n▪ Secretary of the Interior\n▪ Secretary of Labor\n▪ Secretary of State\n▪ Secretary of Transportation\n▪ Secretary of the Treasury\n▪ Secretary of Veterans Affairs\n▪ Attorney General\n▪ Vice President",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "What does the judicial branch do?",
+			"answer": "▪ reviews laws\n▪ explains laws\n▪ resolves disputes (disagreements)\n▪ decides if a law goes against the Constitution",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "What is the highest court in the United States?",
+			"answer": "▪ the Supreme Court",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "How many justices are on the Supreme Court?",
+			"answer": "▪ Visit <a href='uscis.gov/citizenship/testupdates'>uscis.gov/citizenship/testupdates</a> for the number of justices on the Supreme Court.\n\nThough this has varied over the history of the country, as of 19 March 2025, it is:\n▪ nine (9)\n[This has long been the case&emdash;since 1869.]",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "Who is the Chief Justice of the United States now?",
+			"answer": "▪ Visit <a href='uscis.gov/citizenship/testupdates'>uscis.gov/citizenship/testupdates</a> for the name of the Chief Justice of the United States.\n\nAs of 19 March 2025:\n▪ John Roberts\n▪ John G. Roberts, Jr.",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "Under our Constitution, some powers belong to the federal government. What is <span class='underline'>one</span> power of the federal government?",
+			"answer": "▪ to print money\n▪ to declare war\n▪ to create an army\n▪ to make treaties",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "Under our Constitution, some powers belong to the states. What is <span class='underline'>one</span> power of the states?",
+			"answer": "▪ provide schooling and education\n▪ provide protection (police)\n▪ provide safety (fire departments)\n▪ give a driver’s license\n▪ approve zoning and land use",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "Who is the Governor of your state now?",
+			"answer": "▪ Answers will vary. See <a href='https://www.usa.gov/state-governments'>https://www.usa.gov/state-governments</a>. [District of Columbia residents should answer that D.C. does not have a Governor.]\n\nAs of 19 March 2025:\n▪ Jared Polis (term ends in 2027)",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "What is the capital of your state?",
+			"answer": "▪ Answers will vary. [District of Columbia residents should answer that D.C. is not a state and does not have a capital. Residents of U.S. territories should name the capital of the territory.]\n\nThe capital of Colorado is Denver.",
+			"starred": true
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "What are the <span class='underline'>two</span> major political parties in the United States?",
+			"answer": "▪ Democratic and Republican",
+			"starred": true
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "What is the political party of the President now?",
+			"answer": "▪ Visit <a href='uscis.gov/citizenship/testupdates'>uscis.gov/citizenship/testupdates</a> for the political party of the President.\n\nAs of 19 March 2025:\n▪ Republican (Party)",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "System of Government",
+			"question": "What is the name of the Speaker of the House of Representatives now?",
+			"answer": "▪ Visit <a href='uscis.gov/citizenship/testupdates'>uscis.gov/citizenship/testupdates</a> for the name of the Speaker of the House of Representatives.\n\nAs of 19 March 2025:\n▪ Mike Johnson\n▪ Johnson\n▪ James Michael Johnson (birth name)",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "Rights and Responsibilities",
+			"question": "There are four amendments to the Constitution about who can vote. Describe <span class='underline'>one</span> of them.",
+			"answer": "▪ Citizens eighteen (18) and older (can vote).\n▪ You don’t have to pay (a poll tax) to vote.\n▪ Any citizen can vote. (Women and men can vote.)\n▪ A male citizen of any race (can vote).",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "Rights and Responsibilities",
+			"question": "What is <span class='underline'>one</span> responsibility that is only for United States citizens?",
+			"answer": "▪ serve on a jury\n▪ vote in a federal election",
+			"starred": true
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "Rights and Responsibilities",
+			"question": "Name <span class='underline'>one</span> right only for United States citizens.",
+			"answer": "▪ vote in a federal election\n▪ run for federal office",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "Rights and Responsibilities",
+			"question": "What are <span class='underline'>two</span> rights of everyone living in the United States?",
+			"answer": "▪ freedom of expression\n▪ freedom of speech\n▪ freedom of assembly\n▪ freedom to petition the government\n▪ freedom of religion\n▪ the right to bear arms",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "Rights and Responsibilities",
+			"question": "What do we show loyalty to when we say the Pledge of Allegiance?",
+			"answer": "▪ the United States\n▪ the flag",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "Rights and Responsibilities",
+			"question": "What is <span class='underline'>one</span> promise you make when you become a United States citizen?",
+			"answer": "▪ give up loyalty to other countries\n▪ defend the Constitution and laws of the United States\n▪ obey the laws of the United States\n▪ serve in the U.S. military (if needed)\n▪ serve (do important work for) the nation (if needed)\n▪ be loyal to the United States",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "Rights and Responsibilities",
+			"question": "How old do citizens have to be to vote for President?",
+			"answer": "▪ eighteen (18) and older",
+			"starred": true
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "Rights and Responsibilities",
+			"question": "What are <span class='underline'>two</span> ways that Americans can participate in their democracy?",
+			"answer": "▪ vote\n▪ join a political party\n▪ help with a campaign\n▪ join a civic group\n▪ join a community group\n▪ give an elected official your opinion on an issue\n▪ call Senators and Representatives\n▪ publicly support or oppose an issue or policy\n▪ run for office\n▪ write to a newspaper",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "Rights and Responsibilities",
+			"question": "When is the last day you can send in federal income tax forms?",
+			"answer": "▪ April 15",
+			"starred": true
+		},
+		{
+			"category": "AMERICAN GOVERNMENT",
+			"subcategory": "Rights and Responsibilities",
+			"question": "When must all men register for the Selective Service?",
+			"answer": "▪ at age eighteen (18)\n▪ between eighteen (18) and twenty-six (26)",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "Colonial Period and Independence",
+			"question": "What is <span class='underline'>one</span> reason colonists came to America?",
+			"answer": "▪ freedom\n▪ political liberty\n▪ religious freedom\n▪ economic opportunity\n▪ practice their religion\n▪ escape persecution",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "Colonial Period and Independence",
+			"question": "Who lived in America before the Europeans arrived?",
+			"answer": "▪ American Indians\n▪ Native Americans",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "Colonial Period and Independence",
+			"question": "What group of people was taken to America and sold as slaves?",
+			"answer": "▪ Africans\n▪ people from Africa",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "Colonial Period and Independence",
+			"question": "Why did the colonists fight the British?",
+			"answer": "▪ because of high taxes (taxation without representation)\n▪ because the British army stayed in their houses (boarding, quartering)\n▪ because they didn’t have self-government",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "Colonial Period and Independence",
+			"question": "Who wrote the Declaration of Independence?",
+			"answer": "▪ (Thomas) Jefferson",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "Colonial Period and Independence",
+			"question": "When was the Declaration of Independence adopted?",
+			"answer": "▪ July 4, 1776",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "Colonial Period and Independence",
+			"question": "There were 13 original states. Name <span class='underline'>three</span>.",
+			"answer": "▪ New Hampshire\n▪ Massachusetts\n▪ Rhode Island\n▪ Connecticut\n▪ New York\n▪ New Jersey\n▪ Pennsylvania\n▪ Delaware\n▪ Maryland\n▪ Virginia\n▪ North Carolina\n▪ South Carolina\n▪ Georgia",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "Colonial Period and Independence",
+			"question": "What happened at the Constitutional Convention?",
+			"answer": "▪ The Constitution was written.\n▪ The Founding Fathers wrote the Constitution.",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "Colonial Period and Independence",
+			"question": "When was the Constitution written?",
+			"answer": "▪ 1787",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "Colonial Period and Independence",
+			"question": "The Federalist Papers supported the passage of the U.S. Constitution. Name <span class='underline'>one</span> of the writers.",
+			"answer": "▪ (James) Madison\n▪ (Alexander) Hamilton\n▪ (John) Jay\n▪ Publius",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "Colonial Period and Independence",
+			"question": "What is <span class='underline'>one</span> thing Benjamin Franklin is famous for?",
+			"answer": "▪ U.S. diplomat\n▪ oldest member of the Constitutional Convention\n▪ first Postmaster General of the United States\n▪ writer of “Poor Richard’s Almanac”\n▪ started the first free libraries",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "Colonial Period and Independence",
+			"question": "Who is the “Father of Our Country”?",
+			"answer": "▪ (George) Washington",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "Colonial Period and Independence",
+			"question": "Who was the first President?",
+			"answer": "▪ (George) Washington",
+			"starred": true
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "1800s",
+			"question": "What territory did the United States buy from France in 1803?",
+			"answer": "▪ the Louisiana Territory\n▪ Louisiana",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "1800s",
+			"question": "Name <span class='underline'>one</span> war fought by the United States in the 1800s.",
+			"answer": "▪ War of 1812\n▪ Mexican-American War\n▪ Civil War\n▪ Spanish-American War",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "1800s",
+			"question": "Name the U.S. war between the North and the South.",
+			"answer": "▪ the Civil War\n▪ the War between the States",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "1800s",
+			"question": "Name <span class='underline'>one</span> problem that led to the Civil War.",
+			"answer": "▪ slavery\n▪ economic reasons\n▪ states’ rights",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "1800s",
+			"question": "What was <span class='underline'>one</span> important thing that Abraham Lincoln did?",
+			"answer": "▪ freed the slaves (Emancipation Proclamation)\n▪ saved (or preserved) the Union\n▪ led the United States during the Civil War",
+			"starred": true
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "1800s",
+			"question": "What did the Emancipation Proclamation do?",
+			"answer": "▪ freed the slaves\n▪ freed slaves in the Confederacy\n▪ freed slaves in the Confederate states\n▪ freed slaves in most Southern states",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "1800s",
+			"question": "What did Susan B. Anthony do?",
+			"answer": "▪ fought for women’s rights\n▪ fought for civil rights",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "Recent American History and Other Important Historical Information",
+			"question": "Name <span class='underline'>one</span> war fought by the United States in the 1900s.",
+			"answer": "▪ World War I\n▪ World War II\n▪ Korean War\n▪ Vietnam War\n▪ (Persian) Gulf War",
+			"starred": true
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "Recent American History and Other Important Historical Information",
+			"question": "Who was President during World War I?",
+			"answer": "▪ (Woodrow) Wilson",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "Recent American History and Other Important Historical Information",
+			"question": "Who was President during the Great Depression and World War II?",
+			"answer": "▪ (Franklin) Roosevelt",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "Recent American History and Other Important Historical Information",
+			"question": "Who did the United States fight in World War II?",
+			"answer": "▪ Japan, Germany, and Italy",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "Recent American History and Other Important Historical Information",
+			"question": "Before he was President, Eisenhower was a general. What war was he in?",
+			"answer": "▪ World War II",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "Recent American History and Other Important Historical Information",
+			"question": "During the Cold War, what was the main concern of the United States?",
+			"answer": "▪ Communism",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "Recent American History and Other Important Historical Information",
+			"question": "What movement tried to end racial discrimination?",
+			"answer": "▪ civil rights (movement)",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "Recent American History and Other Important Historical Information",
+			"question": "What did Martin Luther King, Jr. do?",
+			"answer": "▪ fought for civil rights\n▪ worked for equality for all Americans",
+			"starred": true
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "Recent American History and Other Important Historical Information",
+			"question": "What major event happened on September 11, 2001, in the United States?",
+			"answer": "▪ Terrorists attacked the United States.",
+			"starred": false
+		},
+		{
+			"category": "AMERICAN HISTORY",
+			"subcategory": "Recent American History and Other Important Historical Information",
+			"question": "Name <span class='underline'>one</span> American Indian tribe in the United States.",
+			"answer": "[USCIS Officers will be supplied with a list of federally recognized American Indian tribes.]\n▪ Cherokee\n▪ Navajo\n▪ Sioux\n▪ Chippewa\n▪ Choctaw\n▪ Pueblo\n▪ Apache\n▪ Iroquois\n▪ Creek\n▪ Blackfeet\n▪ Seminole\n▪ Cheyenne\n▪ Arawak\n▪ Shawnee\n▪ Mohegan\n▪ Huron\n▪ Oneida\n▪ Lakota\n▪ Crow\n▪ Teton\n▪ Hopi\n▪ Inuit",
+			"starred": false
+		},
+		{
+			"category": "INTEGRATED CIVICS",
+			"subcategory": "Geography",
+			"question": "Name <span class='underline'>one</span> of the two longest rivers in the United States.",
+			"answer": "▪ Missouri (River)\n▪ Mississippi (River)",
+			"starred": false
+		},
+		{
+			"category": "INTEGRATED CIVICS",
+			"subcategory": "Geography",
+			"question": "What ocean is on the West Coast of the United States?",
+			"answer": "▪ Pacific (Ocean)",
+			"starred": false
+		},
+		{
+			"category": "INTEGRATED CIVICS",
+			"subcategory": "Geography",
+			"question": "What ocean is on the East Coast of the United States?",
+			"answer": "▪ Atlantic (Ocean)",
+			"starred": false
+		},
+		{
+			"category": "INTEGRATED CIVICS",
+			"subcategory": "Geography",
+			"question": "Name <span class='underline'>one</span> U.S. territory.",
+			"answer": "▪ Puerto Rico\n▪ U.S. Virgin Islands\n▪ American Samoa\n▪ Northern Mariana Islands\n▪ Guam",
+			"starred": false
+		},
+		{
+			"category": "INTEGRATED CIVICS",
+			"subcategory": "Geography",
+			"question": "Name <span class='underline'>one</span> state that borders Canada.",
+			"answer": "▪ Maine\n▪ New Hampshire\n▪ Vermont\n▪ New York\n▪ Pennsylvania\n▪ Ohio\n▪ Michigan\n▪ Minnesota\n▪ North Dakota\n▪ Montana\n▪ Idaho\n▪ Washington\n▪ Alaska",
+			"starred": false
+		},
+		{
+			"category": "INTEGRATED CIVICS",
+			"subcategory": "Geography",
+			"question": "Name <span class='underline'>one</span> state that borders Mexico.",
+			"answer": "▪ California\n▪ Arizona\n▪ New Mexico\n▪ Texas",
+			"starred": false
+		},
+		{
+			"category": "INTEGRATED CIVICS",
+			"subcategory": "Geography",
+			"question": "What is the capital of the United States?",
+			"answer": "▪ Washington, D.C.",
+			"starred": true
+		},
+		{
+			"category": "INTEGRATED CIVICS",
+			"subcategory": "Geography",
+			"question": "Where is the Statue of Liberty?",
+			"answer": "▪ New York (Harbor)\n▪ Liberty Island\n[Also acceptable are New Jersey, near New York City, and on the Hudson (River).]",
+			"starred": true
+		},
+		{
+			"category": "INTEGRATED CIVICS",
+			"subcategory": "Symbols",
+			"question": "Why does the flag have 13 stripes?",
+			"answer": "▪ because there were 13 original colonies\n▪ because the stripes represent the original colonies",
+			"starred": false
+		},
+		{
+			"category": "INTEGRATED CIVICS",
+			"subcategory": "Symbols",
+			"question": "Why does the flag have 50 stars?",
+			"answer": "▪ because there is one star for each state\n▪ because each star represents a state\n▪ because there are 50 states",
+			"starred": true
+		},
+		{
+			"category": "INTEGRATED CIVICS",
+			"subcategory": "Symbols",
+			"question": "What is the name of the national anthem?",
+			"answer": "▪ The Star-Spangled Banner",
+			"starred": false
+		},
+		{
+			"category": "INTEGRATED CIVICS",
+			"subcategory": "Holidays",
+			"question": "When do we celebrate Independence Day?",
+			"answer": "▪ July 4",
+			"starred": true
+		},
+		{
+			"category": "INTEGRATED CIVICS",
+			"subcategory": "Holidays",
+			"question": "Name <span class='underline'>two</span> national U.S. holidays.",
+			"answer": "▪ New Year’s Day\n▪ Martin Luther King, Jr. Day\n▪ Presidents’ Day\n▪ Memorial Day\n▪ Juneteenth\n▪ Independence Day\n▪ Labor Day\n▪ Columbus Day\n▪ Veterans Day\n▪ Thanksgiving\n▪ Christmas",
+			"starred": false
+		}
+	]
+}
