@@ -74,9 +74,30 @@ function init() {
     });
 }
 
+function getNowDateString() {
+    const now = new Date();
+    const yyyy = now.getFullYear();
+    const mm = String(now.getMonth() + 1).padStart(2, '0');
+    const dd = String(now.getDate()).padStart(2, '0');
+    return `${yyyy}-${mm}-${dd}`;
+}
+
 function displayQuestion(qn) {
+    let termEndStr = "", expiredClassStr = "";
+    if ('expires' in data.question_pool[qn]) {
+        const nowDateStr = getNowDateString();
+        const termEnd = [];
+        let expired = false;
+        for (const [dateStr, str] of Object.entries(data.question_pool[qn].expires)) {
+            termEnd.push(`${str} term end: ${dateStr}`);
+            expired ||= (nowDateStr >= dateStr);
+        }
+        expiredClassStr = expired ? " expired" : "";
+        termEndStr = `<br/>(${termEnd.join(", ")})${expired ? "<br/><span class='v-space'></span>" : ""}`;
+    }
+
     qaEl.innerHTML = `<details><summary>${qn+1}. <span class='a_${areas_i[question[qn].area]}'>${question[qn].area}</span><br><h3>${question[qn].question
-        }</h3></summary><div class='ans'>${question[qn].answer}</div><br><div class='btn-wrap'><button id='btn--next'>Next</button></div></details>`;
+        }</h3></summary><div class='ans${expiredClassStr}'>${question[qn].answer}${termEndStr}</div><br><div class='btn-wrap'><button id='btn--next'>Next</button></div></details>`;
     document.getElementById('btn--next').addEventListener('click', () => {
         document.getElementById(`q_${qn}`).classList.add('answered');
         Object.keys(pool).forEach(k => {
@@ -104,5 +125,5 @@ window.onload = () => {
 // "subcategory": "Principles of American Democracy",
 // "question": "What is the supreme law of the land?",
 // "answer": "▪ the Constitution",
-// "starred": false
-
+// "starred": false,
+// "expires": { "yyyy-mm-dd / no term limit": "who", ... }  <--- optional entry

@@ -151,8 +151,9 @@
 			"category": "AMERICAN GOVERNMENT",
 			"subcategory": "System of Government",
 			"question": "Who is <span class='underline'>one</span> of your state’s U.S. Senators now?",
-			"answer": "▪ Answers will vary. See <a href='https://www.senate.gov/'>https://www.senate.gov/</a>. [District of Columbia residents and residents of U.S. territories should answer that D.C. (or the territory where the applicant lives) has no U.S. Senators.]\n\nAs of 19 March 2025:\n▪ [Michael F.] Bennet (term ends in 2028)\n▪ [John W.] Hickenlooper (term ends in 2026)",
-			"starred": true
+			"answer": "▪ Answers will vary. See <a href='https://www.senate.gov/'>https://www.senate.gov/</a>. [District of Columbia residents and residents of U.S. territories should answer that D.C. (or the territory where the applicant lives) has no U.S. Senators.]\n\nAs of 19 March 2025, Colorado's Senators are:\n▪ [Michael F.] Bennet\n▪ [John W.] Hickenlooper",
+			"starred": true,
+			"expires": {"2029-01-03": "Bennet", "2027-01-03": "Hickenlooper"}
 		},
 		{
 			"category": "AMERICAN GOVERNMENT",
@@ -172,8 +173,9 @@
 			"category": "AMERICAN GOVERNMENT",
 			"subcategory": "System of Government",
 			"question": "Name your U.S. Representative.",
-			"answer": "▪ Answers will vary. See <a href='https://www.house.gov/'>https://www.house.gov/</a>. [Residents of territories with nonvoting Delegates or Resident Commissioners may provide the name of that Delegate or Commissioner. Also acceptable is any statement that the territory has no (voting) Representatives in Congress.]\n\nAs of 19 March 2025:\n▪ [Jason] Crow (terms ends in 2026)",
-			"starred": false
+			"answer": "▪ Answers will vary. See <a href='https://www.house.gov/'>https://www.house.gov/</a>. [Residents of territories with nonvoting Delegates or Resident Commissioners may provide the name of that Delegate or Commissioner. Also acceptable is any statement that the territory has no (voting) Representatives in Congress.]\n\nAs of 19 March 2025, the Representative for Colorado's 6th Congressional District is:\n▪ [Jason] Crow",
+			"starred": false,
+			"expires": {"2027-01-03": "Crow"}
 		},
 		{
 			"category": "AMERICAN GOVERNMENT",
@@ -207,15 +209,17 @@
 			"category": "AMERICAN GOVERNMENT",
 			"subcategory": "System of Government",
 			"question": "What is the name of the President of the United States now?",
-			"answer": "▪ Visit <a href='uscis.gov/citizenship/testupdates'>uscis.gov/citizenship/testupdates</a> for the name of the President of the United States.\n\nAs of 19 March 2025:\n▪ Donald J. Trump\n▪ Donald Trump\n▪ Trump\n[Term ends in 2029.]",
-			"starred": true
+			"answer": "▪ Visit <a href='uscis.gov/citizenship/testupdates'>uscis.gov/citizenship/testupdates</a> for the name of the President of the United States.\n\nAs of 19 March 2025, the President is:\n▪ Donald J. Trump\n▪ Donald Trump\n▪ Trump",
+			"starred": true,
+			"expires": {"2029-01-20": "Trump"}
 		},
 		{
 			"category": "AMERICAN GOVERNMENT",
 			"subcategory": "System of Government",
 			"question": "What is the name of the Vice President of the United States now?",
-			"answer": "▪ Visit <a href='uscis.gov/citizenship/testupdates'>uscis.gov/citizenship/testupdates</a> for the name of the Vice President of the United States.\n\nAs of 19 March 2025:\n▪ JD Vance\n▪ Vance\n[Term ends in 2029.]",
-			"starred": false
+			"answer": "▪ Visit <a href='uscis.gov/citizenship/testupdates'>uscis.gov/citizenship/testupdates</a> for the name of the Vice President of the United States.\n\nAs of 19 March 2025, the Vice President is:\n▪ JD Vance\n▪ Vance",
+			"starred": false,
+			"expires": {"2029-01-20": "Vance"}
 		},
 		{
 			"category": "AMERICAN GOVERNMENT",
@@ -284,7 +288,7 @@
 			"category": "AMERICAN GOVERNMENT",
 			"subcategory": "System of Government",
 			"question": "How many justices are on the Supreme Court?",
-			"answer": "▪ Visit <a href='uscis.gov/citizenship/testupdates'>uscis.gov/citizenship/testupdates</a> for the number of justices on the Supreme Court.\n\nThough this has varied over the history of the country, as of 19 March 2025, it is:\n▪ nine (9)\n[This has long been the case&emdash;since 1869.]",
+			"answer": "▪ Visit <a href='uscis.gov/citizenship/testupdates'>uscis.gov/citizenship/testupdates</a> for the number of justices on the Supreme Court.\n\nThough this has varied over the history of the country, as of 19 March 2025, it is:\n▪ nine (9)\n[This has long been the case&mdash;since 1869.]",
 			"starred": false
 		},
 		{
@@ -292,7 +296,8 @@
 			"subcategory": "System of Government",
 			"question": "Who is the Chief Justice of the United States now?",
 			"answer": "▪ Visit <a href='uscis.gov/citizenship/testupdates'>uscis.gov/citizenship/testupdates</a> for the name of the Chief Justice of the United States.\n\nAs of 19 March 2025:\n▪ John Roberts\n▪ John G. Roberts, Jr.",
-			"starred": false
+			"starred": false,
+			"expires": {"no term limit": "Roberts"}
 		},
 		{
 			"category": "AMERICAN GOVERNMENT",
@@ -312,8 +317,9 @@
 			"category": "AMERICAN GOVERNMENT",
 			"subcategory": "System of Government",
 			"question": "Who is the Governor of your state now?",
-			"answer": "▪ Answers will vary. See <a href='https://www.usa.gov/state-governments'>https://www.usa.gov/state-governments</a>. [District of Columbia residents should answer that D.C. does not have a Governor.]\n\nAs of 19 March 2025:\n▪ Jared Polis (term ends in 2027)",
-			"starred": false
+			"answer": "▪ Answers will vary. See <a href='https://www.usa.gov/state-governments'>https://www.usa.gov/state-governments</a>. [District of Columbia residents should answer that D.C. does not have a Governor.]\n\nAs of 19 March 2025:\n▪ Jared Polis",
+			"starred": false,
+			"expires": {"2027-01-12": "Polis"}
 		},
 		{
 			"category": "AMERICAN GOVERNMENT",
@@ -333,15 +339,17 @@
 			"category": "AMERICAN GOVERNMENT",
 			"subcategory": "System of Government",
 			"question": "What is the political party of the President now?",
-			"answer": "▪ Visit <a href='uscis.gov/citizenship/testupdates'>uscis.gov/citizenship/testupdates</a> for the political party of the President.\n\nAs of 19 March 2025:\n▪ Republican (Party)",
-			"starred": false
+			"answer": "▪ Visit <a href='uscis.gov/citizenship/testupdates'>uscis.gov/citizenship/testupdates</a> for the political party of the President.\n\nAs of 19 March 2025, the political party is:\n▪ Republican (Party)",
+			"starred": false,
+			"expires": {"2029-01-20": "Trump"}
 		},
 		{
 			"category": "AMERICAN GOVERNMENT",
 			"subcategory": "System of Government",
 			"question": "What is the name of the Speaker of the House of Representatives now?",
-			"answer": "▪ Visit <a href='uscis.gov/citizenship/testupdates'>uscis.gov/citizenship/testupdates</a> for the name of the Speaker of the House of Representatives.\n\nAs of 19 March 2025:\n▪ Mike Johnson\n▪ Johnson\n▪ James Michael Johnson (birth name)",
-			"starred": false
+			"answer": "▪ Visit <a href='uscis.gov/citizenship/testupdates'>uscis.gov/citizenship/testupdates</a> for the name of the Speaker of the House of Representatives.\n\nAs of 19 March 2025, the Speaker is:\n▪ Mike Johnson\n▪ Johnson\n▪ James Michael Johnson (birth name)",
+			"starred": false,
+			"expires": {"no term limit": "Johnson"}
 		},
 		{
 			"category": "AMERICAN GOVERNMENT",
