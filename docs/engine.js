@@ -74,30 +74,36 @@ function init() {
     });
 }
 
-function getNowDateString() {
+function getDateStrings() {
+    function dateToYyyymmddStr(date) {
+        const yyyy = date.getFullYear();
+        const mm = String(date.getMonth() + 1).padStart(2, '0');
+        const dd = String(date.getDate()).padStart(2, '0');
+        return `${yyyy}-${mm}-${dd}`;
+    }
     const now = new Date();
-    const yyyy = now.getFullYear();
-    const mm = String(now.getMonth() + 1).padStart(2, '0');
-    const dd = String(now.getDate()).padStart(2, '0');
-    return `${yyyy}-${mm}-${dd}`;
+    const nowp1mo = new Date(now.getFullYear(), now.getMonth() + 1, now.getDate()); // rolls over the year, if need be
+    return {now: dateToYyyymmddStr(now), nowp1mo: dateToYyyymmddStr(nowp1mo)};
 }
 
 function displayQuestion(qn) {
-    let termEndStr = "", expiredClassStr = "";
+    let termEndStr = "", expireClassStr = "";
     if ('expires' in data.question_pool[qn]) {
-        const nowDateStr = getNowDateString();
+        const {now, nowp1mo} = getDateStrings();
         const termEnd = [];
         let expired = false;
+        let expiring = false;
         for (const [dateStr, str] of Object.entries(data.question_pool[qn].expires)) {
             termEnd.push(`${str} term end: ${dateStr}`);
-            expired ||= (nowDateStr >= dateStr);
+            expired ||= (now >= dateStr);
+            expiring ||= (nowp1mo >= dateStr);
         }
-        expiredClassStr = expired ? " expired" : "";
-        termEndStr = `<br/>(${termEnd.join(", ")})${expired ? "<br/><span class='v-space'></span>" : ""}`;
+        expireClassStr = expired ? " expired" : expiring ? " expiring" : "";
+        termEndStr = `<br/>(${termEnd.join(", ")})${expired || expiring ? "<br/><span class='v-space'></span>" : ""}`;
     }
 
     qaEl.innerHTML = `<details><summary>${qn+1}. <span class='a_${areas_i[question[qn].area]}'>${question[qn].area}</span><br><h3>${question[qn].question
-        }</h3></summary><div class='ans${expiredClassStr}'>${question[qn].answer}${termEndStr}</div><br><div class='btn-wrap'><button id='btn--next'>Next</button></div></details>`;
+        }</h3></summary><div class='ans${expireClassStr}'>${question[qn].answer}${termEndStr}</div><br><div class='btn-wrap'><button id='btn--next'>Next</button></div></details>`;
     document.getElementById('btn--next').addEventListener('click', () => {
         document.getElementById(`q_${qn}`).classList.add('answered');
         Object.keys(pool).forEach(k => {

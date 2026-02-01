@@ -84,6 +84,13 @@ button {
 	border-radius: 0.25rem;
 	padding: 0.25rem 0.5rem;
 }
+.expiring::after {
+	content: "⚠ Term expiring soon! (Look up pending answer.)";
+	color: #ff0;
+	background-color: #c70;
+	border-radius: 0.25rem;
+	padding: 0.25rem 0.5rem;
+}
 .v-space {
 	display: block;
 	height: 0.4rem;
